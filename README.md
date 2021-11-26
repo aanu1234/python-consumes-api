@@ -4,7 +4,7 @@
 - install requests, then 
 - run python script_name.py
 
-- in my case is:
+In my case is:
 
 ```
     pip install requests
