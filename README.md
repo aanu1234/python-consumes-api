@@ -7,6 +7,11 @@
 - in my case is:
 
 ```
+    pip install requests
+```
+then run your code,
+
+```
     python index.py
 ```
 
