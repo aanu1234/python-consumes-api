@@ -1,6 +1,6 @@
 ﻿# python-consumes-api
 
--Open your terminal in vscode or any text editor of your choice and install requests, then run python script_name.py
+- Open your terminal in vscode or any text editor of your choice and install requests, then run python script_name.py
 
 in my case is:
 
